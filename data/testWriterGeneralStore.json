@@ -1,0 +1,17 @@
+{
+    "flowers": [
+        {
+            "flower meaning": "b",
+            "price": 1.1,
+            "name": "a",
+            "stock": 100
+        },
+        {
+            "flower meaning": "d",
+            "price": 1.2,
+            "name": "c",
+            "stock": 200
+        }
+    ],
+    "accessCode": "1"
+}
